@@ -5,23 +5,23 @@
 ### Indie Video Games
 
 [Destroy Planets](https://zgacesa2.itch.io/destroy-planets)
-<img src="images/DestPlanet.jpg?raw=true"/>
+<img src="images/DestPlanet.jpg?raw=false"/>
 
 ---
 [Kill Maya Bee](https://zgacesa2.itch.io/kill-maya-bee)
-<img src="images/MayaKill.jpg?raw=true"/>
+<img src="images/MayaKill.jpg?raw=false"/>
 
 ---
 [Hyper Bricks](https://policeproduction.itch.io/hyper-bricks)
-<img src="images/Hyper.jpg?raw=true"/>
+<img src="images/Hyper.jpg?raw=false"/>
 
 ---
 [DajRibu](https://zgacesa2.itch.io/dajribu)
-<img src="images/DajFiš.jpg?raw=true"/>
+<img src="images/DajFiš.jpg?raw=false"/>
 
 ---
 [Chattering Bones](https://zgacesa2.itch.io/chattering-bones)
-<img src="images/DajFiš.jpg?raw=true"/>
+<img src="images/DajFiš.jpg?raw=false"/>
 
 ---
 ### Category Name 2
