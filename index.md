@@ -2,21 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Indie Video Games
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Destroy Planets](https://zgacesa2.itch.io/destroy-planets)
+<img src="images/DestPlanet.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Kill Maya Bee](https://zgacesa2.itch.io/kill-maya-bee)
+<img src="images/MayaKill.jpg?raw=true"/>
 
 ---
+[Hyper Bricks](https://policeproduction.itch.io/hyper-bricks)
+<img src="images/Hyper.jpg?raw=true"/>
 
+---
+[DajRibu](https://zgacesa2.itch.io/dajribu)
+<img src="images/DajFiš.jpg?raw=true"/>
+
+---
+[Chattering Bones](https://zgacesa2.itch.io/chattering-bones)
+<img src="images/DajFiš.jpg?raw=true"/>
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
